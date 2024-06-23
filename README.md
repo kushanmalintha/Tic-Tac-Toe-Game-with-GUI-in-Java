@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-Game-with-GUI-in-Java
+This project is a Tic Tac Toe game implemented in Java using a graphical user interface (GUI). The application is built following the Model-View-Controller (MVC) design pattern to separate the internal representation of information from the ways that information is presented to and accepted by the user. Event handling is utilized to manage user interactions efficiently.
